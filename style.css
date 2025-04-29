@@ -61,13 +61,11 @@ width: 100%;
 }
 
 .wp-container-core-group-is-layout-dc3cd236 .wp-block-post-terms a {
-  margin:0 -20px!important;
-
+margin:0 -20px!important;
+text-decoration:none!important;
+font-weight:bold!important;
 }
+
 .wp-container-core-group-is-layout-dc3cd236 .wp-block-heading {
-  margin: 0px 5px 6px 10px!important;
-}
-
-.wp-container-core-group-is-layout-dc3cd236 a {
-  font-weight:bold!important;
+margin: 0px 5px 4px 10px!important;
 }
