@@ -60,11 +60,14 @@ width: 100%;
     column-gap: 30px;
 }
 
-.metadata h6 {
-margin-top:0px!important;
+.wp-container-core-group-is-layout-dc3cd236 .wp-block-post-terms a {
+  margin:0 -20px!important;
+
+}
+.wp-container-core-group-is-layout-dc3cd236 .wp-block-heading {
+  margin: 0px 5px 6px 10px!important;
 }
 
-.metadata .taxonomy-category.wp-post-block-terms a{
-margin-top: 0px!important;
-color:red!important;
+.wp-container-core-group-is-layout-dc3cd236 a {
+  font-weight:bold!important;
 }
