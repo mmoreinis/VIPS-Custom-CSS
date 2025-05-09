@@ -69,3 +69,21 @@ font-weight:bold!important;
 .wp-container-core-group-is-layout-dc3cd236 .wp-block-heading {
 margin: 0px 5px 4px 0px!important;
 }
+
+#digital_signature-pad_signature-641, #digital_signature-pad_signature-627 {
+height: 200px;
+width: 600px;
+overflow:visible;
+z-index:100;
+}
+
+.tinytext {
+font-size:8pt;
+color:gray;
+line-height:1em!important;
+}
+
+.wpcf7-form p {
+margin:0 0 10px 0;
+line-height:1em!important;
+}
