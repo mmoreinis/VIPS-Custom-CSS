@@ -77,13 +77,6 @@ overflow:visible;
 z-index:100;
 }
 
-.tinytext {
-font-size:8pt;
-color:gray;
-line-height:1em!important;
-}
-
-.wpcf7-form p {
-margin:0 0 10px 0;
-line-height:1em!important;
+footer .wp-block-navigation .current-menu-item > a {
+    color: #EE771D !important;
 }
